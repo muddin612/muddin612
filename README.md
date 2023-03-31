@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @muddin612
-- 👀 I’m interested in AI
+- 👋 Hi, I’m Mohammed Uddin
 - 🌱 I’m currently learning Computer Science at MSU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email: mduddin617@gmail.com
 
 <!---
 muddin612/muddin612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
