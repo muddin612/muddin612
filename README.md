@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Uddin
-- 🌱 I’m currently learning Computer Science at MSU
+- 🏫 I’m currently learning Computer Science at MSU
 - 📫 How to reach me email: mduddin617@gmail.com
 
 <!---
