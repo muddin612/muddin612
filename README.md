@@ -26,33 +26,6 @@ I am a results-driven Computer Science graduate with a passion for crafting eleg
 **Bachelor of Science in Computer Science, Minor in Data Science**  
 Montclair State University (MSU), Montclair, NJ  
 **Graduation:** May 2024  
-**Honors:** Dean’s List (Spring 2023)
-
----
-
-## Projects
-
-### Historify
-
-**Role:** Web Application Developer  
-**Duration:** Jun 2023 - Oct 2023  
-**Description:** Developed a web application integrating Spotify API with REST API for analyzing user's music consumption patterns.
-
-### SE Project (Red hawk Lux)
-
-**Role:** Web Application Developer  
-**Duration:** Jan 2024 - May 2024  
-**Description:** Led a team project to develop an ecommerce platform using JavaScript, HTML, CSS, Bootstrap, Supabase, and PostgreSQL.
-
----
-
-## Work Experience
-
-**Transporter, Hertz Car Rental**  
-**Location:** Morristown, NJ  
-**Duration:** Jan 2024 – Present  
-- Conduct vehicle inspections and transport rental vehicles between locations.
-- Provide excellent customer service, handling inquiries and maintaining brand image.
 
 <!---
 muddin612/muddin612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
